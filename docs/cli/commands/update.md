@@ -3,7 +3,7 @@ title: CLI Command - cap update
 description: Capacitor - cap update
 contributors:
   - dotNetkow
-sidebar_label: update
+sidebar_label: updateت
 ---
 
 # Capacitor CLI - cap update
